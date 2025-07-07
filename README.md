@@ -53,3 +53,15 @@ Run as root with a supported wireless interface:
 sudo python3 WifiMeNow.py 
 # or
 sudo python3 WifiMeNowAuto.py <interface>
+```
+
+## 📦 Output
+✅ Handshake .cap files stored in captures/
+
+✅ Cracked credentials saved to results/results.csv
+
+🗑️ Intermediate scan files are automatically cleaned
+
+## ⚠️ Legal Disclaimer
+
+This tool is intended strictly for educational and authorized penetration testing purposes only. Do not use against networks you do not own or have explicit permission to test. Misuse can be illegal and unethical.
