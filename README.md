@@ -3,6 +3,10 @@
 > 🚨 **Unlock the power of automation in wireless penetration testing.** WifiMeNow hunts, captures, and cracks WPA2 handshakes with minimal input and maximum efficiency. Just plug in your wireless adapter, run the script, and let it do the dirty work.
 
 ---
+![WifiMeNow Screenshot](assets/Picture1.png)
+
+
+![WifiMeNow Screenshot](assets/Picture2.png)
 
 ## ✨ Features
 
@@ -15,14 +19,17 @@
 - 💻 **Minimal Setup** – All handled via CLI. No GUI nonsense.
 
 ---
+## 📁 Automated terminal session creation
+
+![WifiMeNow Screenshot](assets/Picture3.png)
 
 ## 📁 Included Scripts
 
 ### `WifiMeNow.py`
-Main interactive version that runs on demand and targets nearby WPA2 WiFi networks based on signal strength.
+Main interactive version that runs on demand and targets nearby WPA2 WiFi networks, just plug in the bssid and channel number.
 
 ### `WifiMeNowAuto.py`
-An automated variant for fully hands-off operation – suitable for persistent wardriving sessions or testing.
+An automated variant for fully hands-off operation – suitable for persistent wardriving sessions or testing, capture based on highest signal strengh.
 
 ---
 
